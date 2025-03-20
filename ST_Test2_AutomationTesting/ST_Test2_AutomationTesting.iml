@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/auto-service-annotations-1.1.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/byte-buddy-1.15.11.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/checker-qual-3.21.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/commons-exec-1.4.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/error_prone_annotations-2.36.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/failureaccess-1.0.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/guava-33.4.0-jre.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/j2objc-annotations-3.0.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/jcommander-1.82.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/jspecify-1.0.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/jsr305-3.0.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/opentelemetry-api-1.46.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/opentelemetry-api-incubator-1.46.0-alpha.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/opentelemetry-context-1.46.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/opentelemetry-exporter-logging-1.46.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/opentelemetry-sdk-1.46.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/opentelemetry-sdk-common-1.46.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/opentelemetry-sdk-extension-autoconfigure-1.46.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/opentelemetry-sdk-extension-autoconfigure-spi-1.46.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/opentelemetry-sdk-logs-1.46.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/opentelemetry-sdk-metrics-1.46.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/opentelemetry-sdk-trace-1.46.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/opentelemetry-semconv-1.28.0-alpha.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-api-4.28.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-chrome-driver-4.28.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-chromium-driver-4.28.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-devtools-v85-4.28.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-devtools-v130-4.28.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-devtools-v131-4.28.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-devtools-v132-4.28.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-edge-driver-4.28.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-firefox-driver-4.28.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-http-4.28.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-ie-driver-4.28.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-java-4.28.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-json-4.28.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-manager-4.28.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-os-4.28.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-remote-driver-4.28.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-safari-driver-4.28.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-support-4.28.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/testng-7.11.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/auto-service-annotations-1.1.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/byte-buddy-1.15.11-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/checker-qual-3.21.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/commons-exec-1.4.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/error_prone_annotations-2.36.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/failureaccess-1.0.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/guava-33.4.0-jre-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/j2objc-annotations-3.0.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/jspecify-1.0.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/jsr305-3.0.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/opentelemetry-api-1.46.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/opentelemetry-api-incubator-1.46.0-alpha-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/opentelemetry-context-1.46.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/opentelemetry-exporter-logging-1.46.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/opentelemetry-sdk-1.46.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/opentelemetry-sdk-common-1.46.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/opentelemetry-sdk-extension-autoconfigure-1.46.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/opentelemetry-sdk-extension-autoconfigure-spi-1.46.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/opentelemetry-sdk-logs-1.46.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/opentelemetry-sdk-metrics-1.46.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/opentelemetry-sdk-trace-1.46.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/opentelemetry-semconv-1.28.0-alpha-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-api-4.28.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-chrome-driver-4.28.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-chromium-driver-4.28.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-devtools-v85-4.28.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-devtools-v130-4.28.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-devtools-v131-4.28.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-devtools-v132-4.28.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-edge-driver-4.28.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-firefox-driver-4.28.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-http-4.28.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-ie-driver-4.28.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-json-4.28.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-manager-4.28.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-os-4.28.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-remote-driver-4.28.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-safari-driver-4.28.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Selenium_TestNG_JCmdr_jars/selenium-support-4.28.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
